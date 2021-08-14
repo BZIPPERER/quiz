@@ -1,0 +1,4 @@
+*.jar
+README.md
+bin/
+.classpath
